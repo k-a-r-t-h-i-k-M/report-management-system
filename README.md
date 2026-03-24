@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Report Management System
 
 A Government Report Management System built using PHP.  
