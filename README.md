@@ -24,4 +24,6 @@ This project allows departments and administrators to manage, track, and review 
 
 ---
 <img width="1917" height="950" alt="Admin 1" src="https://github.com/user-attachments/assets/bddaffb6-239e-4dd9-98df-14cedc60d87a" />
+<img width="1919" height="945" alt="Admin 2" src="https://github.com/user-attachments/assets/dff8e253-6384-468a-bc89-d2a382d86e01" />
 <img width="1919" height="947" alt="Department 1" src="https://github.com/user-attachments/assets/0aed560e-d33e-4a8f-9577-42e7c069e448" />
+<img width="1919" height="951" alt="Department 2" src="https://github.com/user-attachments/assets/c3c5766b-98f7-49ca-81fb-8a193909843e" />
